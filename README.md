@@ -8,11 +8,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-* 🎓Pursuing my Master's in Computer Application from [National Institute of Technology from Surathkal -Karnataka ](https://www.nitk.ac.in/). 
-- ✍ You can find my projects here [Portfolio](https://nidhiverma-828.netlify.app/)
+
+* I am a  Developer with a strong foundation in computer science and over a year of hands-on industry experience at Citi Corp . Currently working in a data-driven environment, I specialize in building and optimizing scalable data workflows using Python ,SAS, Appian, and SQL to support business decision-making and improve operational efficiency.
+* 🎓I hold a Master of Computer Applications from NIT Karnataka, Surathkal, where I developed a solid understanding of data structures, algorithms, and full-stack development. My technical skill set spans across C++, Java, Python, React.js, MongoDB, and machine learning, enabling me to work across both backend systems and user-facing applications.
+* I have built impactful projects such as DocVerse, a real-time collaborative platform, and an Algorithm Visualizer to simplify complex DSA concepts. My work focuses on combining clean code practices with performance optimization to deliver efficient and scalable solutions.
 * 🧑🏻‍💻 Tech enthusiast. 
 * 💡 Always open to collaborating on projects and innovative ideas. 
-* 💻 Learning [Node js and Mongo db ]().
+
 
 ### Talk with me, I am kinda awesome:
 
